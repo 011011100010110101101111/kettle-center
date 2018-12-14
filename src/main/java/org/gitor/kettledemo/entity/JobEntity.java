@@ -1,0 +1,1 @@
+package org.gitor.kettledemo.entity;/** * kettle 作业对象 * @author : liuwenlong * @date : 2018/12/14 15:02 */public class JobEntity {    private String name;    public String getName() {        return name;    }    public void setName(String name) {        this.name = name;    }}
