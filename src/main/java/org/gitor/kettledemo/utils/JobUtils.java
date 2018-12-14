@@ -1,0 +1,1 @@
+package org.gitor.kettledemo.utils;import java.util.List;import java.util.jar.JarEntry;/** * 作业调度工具类 * @author : liuwenlong * @date : 2018/12/14 15:35 */public class JobUtils {    /**     * 启动job     * @param list     */    public void startJobs(List<JarEntry> list){    }}
